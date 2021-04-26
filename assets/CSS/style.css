@@ -204,3 +204,43 @@ article .news-resume {
   line-height: 20px;
   margin-bottom: 30px;
 }
+.departaments img {
+  width: 100%;
+  height: auto;
+}
+
+.departaments .departament-title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #2b4c99;
+  font-size: 15px;
+}
+.widget-body .departaments {
+  flex: 1;
+  min-width: 150px;
+  margin-right: 15px;
+}
+.widget-body .appointment-text {
+  color: #555555;
+  font-size: 17px;
+  line-height: 20px;
+  margin-bottom: 25px;
+  margin-left: 5px;
+}
+.widget-body .appointment-section {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.widget-body .appointment-section input {
+  width: 20px;
+  height: 20px;
+}
+.widget-body .appointment-section label {
+  color: #555555;
+  font-size: 17px;
+  line-height: 20px;
+  margin-left: 10px;
+}
