@@ -18,11 +18,10 @@ header {
 .logo {
   display: flex;
   align-items: center;
-  color: #0096ff;
 }
 .img-logo {
   width: 100%;
-  max-width: 150px;
+  max-width: 200px;
 }
 .menu {
   display: flex;
@@ -42,10 +41,10 @@ nav a {
   padding: 15px;
   text-decoration: none;
   text-transform: uppercase;
-  color: #727272;
+  color: #000000;
 }
 nav a:hover {
-  background-color: #39aae1;
+  background-color: #000000;
   color: #ffffff;
 }
 #banner {
@@ -66,17 +65,17 @@ nav a:hover {
   justify-content: center;
 }
 .banner-headline h1 {
-  color: #e5e4e2;
+  color: #ffffff;
   font-size: 60px;
-  text-shadow: 0px 1px 0px #555555;
+  text-shadow: 0px 1px 0px #000000;
   margin: 0;
   padding: 0;
   max-width: 350px;
 }
 .banner-headline p {
-  color: #dfdfe5;
+  color: #ffffff;
   font-size: 20px;
-  text-shadow: 0px 1px 0px #555555;
+  text-shadow: 0px 1px 0px #000000;
   margin: 0;
   padding: 0;
   max-width: 350px;
@@ -90,17 +89,17 @@ nav a:hover {
 .banner2,
 .banner3 {
   flex: 1;
-  color: #dfdfe5;
+  color: #ffffff;
   padding: 20px;
 }
 .banner1 {
-  background-color: #2b4c99;
+  background-color: #343a40;
 }
 .banner2 {
-  background-color: #0079c7;
+  background-color: #495057;
 }
 .banner3 {
-  background-color: #39aae1;
+  background-color: #6c757d;
 }
 .banner-title {
   font-size: 25px;
@@ -118,16 +117,16 @@ nav a:hover {
 .banner-options a {
   text-decoration: none;
   display: inline-block;
-  border: 1px solid #e5e4e2;
+  border: 1px solid #ffffff;
   padding: 5px;
-  color: #e5e4e2;
+  color: #ffffff;
 }
 .banner-time {
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
   margin-bottom: 20px;
-  border-bottom: 1px solid #e5e4e2;
+  border-bottom: 1px solid #ffffff;
   padding: 5px;
 }
 #geral {
@@ -145,14 +144,14 @@ nav a:hover {
   margin-bottom: 20px;
 }
 .widget-title-text {
-  color: #727272;
+  color: #000000;
   font-size: 20px;
   font-weight: bold;
 }
 .widget-title-bar {
   width: 50px;
   height: 2px;
-  background-color: #2b4c99;
+  background-color: #14213d;
   margin-top: 10px;
 }
 .flex {
@@ -171,14 +170,14 @@ article .news-data {
   display: flex;
 }
 article .news-posted-at {
-  background-color: #39aae1;
-  color: #e5e4e2;
+  background-color: #14213d;
+  color: #ffffff;
   font-size: 12px;
   padding: 10px;
 }
 article .news-comments {
-  background-color: #2b4c99;
-  color: #e5e4e2;
+  background-color: #fca311;
+  color: #000000;
   font-size: 12px;
   padding: 10px;
   margin-left: 2px;
@@ -193,11 +192,11 @@ article .news-thunbnail img {
 article .news-title {
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #2b4c99;
-  font-size: 20px;
+  color: #000000;
+  font-size: 22px;
 }
 article .news-resume {
-  color: #555555;
+  color: #343a40;
   font-size: 14px;
   line-height: 20px;
   margin-bottom: 30px;
@@ -210,7 +209,7 @@ article .news-resume {
 .departaments .departament-title {
   margin-top: 15px;
   margin-bottom: 15px;
-  color: #2b4c99;
+  color: #14213d;
   font-size: 15px;
 }
 .widget-body .departaments {
@@ -219,7 +218,7 @@ article .news-resume {
   margin-right: 15px;
 }
 .widget-body .appointment-text {
-  color: #555555;
+  color: #212529;
   font-size: 17px;
   line-height: 20px;
   margin-bottom: 25px;
@@ -237,14 +236,14 @@ article .news-resume {
   height: 20px;
 }
 .widget-body .appointment-section label {
-  color: #555555;
+  color: #343a40;
   font-size: 17px;
   line-height: 20px;
   margin-left: 10px;
 }
 
 footer {
-  background-color: #1e1e1e;
+  background-color: #000000;
   display: flex;
   justify-content: center;
 }
@@ -254,7 +253,7 @@ footer {
 .footer-banner a {
   display: block;
   text-decoration: none;
-  color: #e5e4e2;
+  color: #ffffff;
   padding: 20px;
 }
 .footer-banner .bigger-text {
@@ -275,13 +274,13 @@ footer {
   flex: 1;
 }
 .ft-banner1 {
-  background-color: #2b4c99;
+  background-color: #495057;
 }
 .ft-banner2 {
-  background-color: #0079c7;
+  background-color: #6c757d;
 }
 .ft-banner3 {
-  background-color: #39aae1;
+  background-color: #adb5bd;
 }
 .footer-area {
   display: flex;
@@ -301,12 +300,12 @@ footer .widget-title-text {
   color: #ffffff;
 }
 footer .widget-title-bar {
-  background-color: #39aae1;
+  background-color: #fca311;
 }
 .address {
   display: flex;
   flex: 1;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .latest-posts {
@@ -327,7 +326,7 @@ footer .widget-title-bar {
   border-top: 1px solid #2c2c2c;
   height: 40px;
   line-height: 40px;
-  color: #727272;
+  color: #adb5bd;
   font-size: 12px;
   margin-top: 30px;
 }
