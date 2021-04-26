@@ -3,9 +3,7 @@
   padding: 0;
   font-family: "Roboto", sans-serif;
 }
-body {
-  padding-bottom: 300px;
-}
+
 header {
   display: flex;
   justify-content: center;
@@ -53,7 +51,7 @@ nav a:hover {
 #banner {
   display: flex;
   justify-content: center;
-  background-image: url("../images/banner.jpg");
+  background-image: url("../images/banner2.jpg");
   background-position: center;
   background-size: cover;
   height: 670px;
@@ -76,7 +74,7 @@ nav a:hover {
   max-width: 350px;
 }
 .banner-headline p {
-  color: #555555;
+  color: #dfdfe5;
   font-size: 20px;
   text-shadow: 0px 1px 0px #555555;
   margin: 0;
@@ -243,4 +241,93 @@ article .news-resume {
   font-size: 17px;
   line-height: 20px;
   margin-left: 10px;
+}
+
+footer {
+  background-color: #1e1e1e;
+  display: flex;
+  justify-content: center;
+}
+.footer-banner {
+  display: flex;
+}
+.footer-banner a {
+  display: block;
+  text-decoration: none;
+  color: #e5e4e2;
+  padding: 20px;
+}
+.footer-banner .bigger-text {
+  font-size: 25px;
+}
+.footer-banner .small-text {
+  font-size: 12px;
+  margin-top: 15px;
+}
+.widget-body .small-text-footer {
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 25px;
+}
+.ft-banner1,
+.ft-banner2,
+.ft-banner3 {
+  flex: 1;
+}
+.ft-banner1 {
+  background-color: #2b4c99;
+}
+.ft-banner2 {
+  background-color: #0079c7;
+}
+.ft-banner3 {
+  background-color: #39aae1;
+}
+.footer-area {
+  display: flex;
+}
+.footer-area a {
+  text-decoration: none;
+  color: #dfdfe5;
+}
+.footer-area-item {
+  flex: 1;
+  color: #ffffff;
+}
+.flex-column {
+  flex-direction: column;
+}
+footer .widget-title-text {
+  color: #ffffff;
+}
+footer .widget-title-bar {
+  background-color: #39aae1;
+}
+.address {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.latest-posts {
+  margin-left: 20px;
+  margin-left: 20px;
+}
+
+.social-media {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.social-media img {
+  width: 20px;
+  margin: 10px;
+}
+.footer-dev {
+  border-top: 1px solid #2c2c2c;
+  height: 40px;
+  line-height: 40px;
+  color: #727272;
+  font-size: 12px;
+  margin-top: 30px;
 }
