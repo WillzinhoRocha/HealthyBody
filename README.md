@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 
 # Healthy Body
 
-![Project Image](https://drive.google.com/file/d/1u5UXWNBsz111As1HFe4gy7Xvw9UgDDE4/view?usp=sharing)
+(<a href="https://imgur.com/yLwuYoZ"><img src="https://i.imgur.com/yLwuYoZ.png" title="source: imgur.com" /></a>
 
-> This is a ReadMe template to help save you time and effort.
+> This is a project to improve my skills in FlexBox.
 
 ---
 
