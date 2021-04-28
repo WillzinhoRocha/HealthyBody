@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Healthy Body
 
 ![Project Image](https://drive.google.com/file/d/1u5UXWNBsz111As1HFe4gy7Xvw9UgDDE4/view?usp=sharing)
@@ -84,4 +86,4 @@ SOFTWARE.
 - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
 - Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](#read-me-template)
+# [Back To The Top](#read-me-template)
