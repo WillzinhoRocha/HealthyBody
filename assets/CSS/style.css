@@ -94,13 +94,13 @@ nav a:hover {
   padding: 20px;
 }
 .banner1 {
-  background-color: #343a40;
+  background-color: #6c757d;
 }
 .banner2 {
   background-color: #495057;
 }
 .banner3 {
-  background-color: #6c757d;
+  background-color: #343a40;
 }
 .banner-title {
   font-size: 25px;
@@ -275,13 +275,13 @@ footer {
   flex: 1;
 }
 .ft-banner1 {
-  background-color: #495057;
+  background-color: #adb5bd;
 }
 .ft-banner2 {
   background-color: #6c757d;
 }
 .ft-banner3 {
-  background-color: #adb5bd;
+  background-color: #343a40;
 }
 .footer-area {
   display: flex;
@@ -369,6 +369,9 @@ footer .widget-title-bar {
   nav ul {
     flex-direction: column;
     display: none;
+    position: absolute;
+    right: 0;
+    background-color: #ffffff;
   }
   .banner-headline h1 {
     font-size: 40px;
