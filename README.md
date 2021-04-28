@@ -1,19 +1,18 @@
 
 # Healthy Body
 
-(<a href="https://imgur.com/yLwuYoZ"><img src="https://i.imgur.com/yLwuYoZ.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/yLwuYoZ"><img src="https://i.imgur.com/yLwuYoZ.png" title="source: imgur.com" /></a>
 
-> This is a project to improve my skills in FlexBox.
+> This is a project to improve my skills in FlexBox. <br /> <br />
+> Este é um projeto para melhorar minhas habilidades em FlexBox.
 
 ---
 
 ### Table of Contents
 
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -21,22 +20,23 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious. I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+This landing page is a layout made for gym academies. <br /> <br />
+Esta landing page é um layout feito para academias de ginástica.
 
-#### Technologies
+#### Technologies / Tecnologias
 
-- Technology 1
-- Technology 2
+- HTML
+- CSS
+- Javascript
 
 [Back To The Top](#read-me-template)
 
 ---
 
 ## How To Use
+- Use this template or download this repository with the starter code.
 
-#### Installation
-
-#### API Reference
+- Use esse template ou baixe esse repositório com o código inicial.
 
 ```html
 <p>dummy code</p>
