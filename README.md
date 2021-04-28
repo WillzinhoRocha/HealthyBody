@@ -1,15 +1,12 @@
-
-# Healthy Body
-
 <a href="https://imgur.com/yLwuYoZ"><img src="https://i.imgur.com/yLwuYoZ.png" title="source: imgur.com" /></a>
 
-> This is a project to improve my skills in FlexBox. <br /> <br />
-> Este é um projeto para melhorar minhas habilidades em FlexBox.
+## This is a project to improve my skills in FlexBox. <br /> <br />
+
+## Este é um projeto para melhorar minhas habilidades em FlexBox.
 
 ---
 
 ### Table of Contents
-
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -23,27 +20,23 @@
 This landing page is a layout made for gym academies. <br /> <br />
 Esta landing page é um layout feito para academias de ginástica.
 
+<a href="https://imgur.com/O2UK8ag"><img src="https://i.imgur.com/O2UK8ag.png" title="source: imgur.com" /></a>
+
 #### Technologies / Tecnologias
 
 - HTML
 - CSS
 - Javascript
 
-
-
 ---
 
 ## How To Use
+
 - Use this template or download this repository with the starter code.
 
 - Use esse template ou baixe esse repositório com o código inicial.
 
-
-
 ---
-
-
-
 
 ## License
 
@@ -65,13 +58,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-
 ---
 
 ## Author Info
 
 - Twitter - [@willzinhorocha](https://twitter.com/willzinhorochak)
-
-
-
